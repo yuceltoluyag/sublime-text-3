@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"Color Highlight",
+		"Emmet",
+		"gruvbox",
+		"Markdown Extended",
+		"One Dark Color Scheme",
+		"Package Control",
+		"PHP Companion",
+		"PHP CS Fixer",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Terminal"
+	]
+}

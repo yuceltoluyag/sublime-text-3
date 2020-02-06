@@ -1,0 +1,7 @@
+{
+  "phpcompanion": {
+"namespace_prefix": "App"
+},
+"visibility": "protected",
+"use_sort_length": true
+}
